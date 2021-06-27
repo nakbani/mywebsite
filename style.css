@@ -198,7 +198,7 @@ h1, h2, h3, h4, h5, h6 {
   display: none;
   line-height: 0;
   transition: 0.5s;
-  padding-left: 300px;
+  padding-left: 500px;
 }
 
 @media (max-width: 991px) {
