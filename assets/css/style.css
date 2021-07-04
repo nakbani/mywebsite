@@ -204,7 +204,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("https://user-images.githubusercontent.com/81789386/124364257-e3d0ef00-dc05-11eb-8e48-96f3e3f665e8.png");
+  background: url("https://user-images.githubusercontent.com/81789386/124368318-c14ece00-dc25-11eb-9075-bfe8f2b65e07.jpg");
   background-size: cover;
 }
 
@@ -386,7 +386,7 @@ section {
 }
 
 .about .image {
-    background: url("https://user-images.githubusercontent.com/81789386/123018776-c5acf880-d394-11eb-80c9-a7c25ad118bf.jpg") center no-repeat;
+    background: url("https://user-images.githubusercontent.com/81789386/124368350-0541d300-dc26-11eb-92c4-f202f4aefaf8.jpg") center no-repeat;
     background-size: cover;
     min-height: 700px;
 }
