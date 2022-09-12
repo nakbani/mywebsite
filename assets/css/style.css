@@ -505,9 +505,12 @@ section {
 
 
 
-
+.contact{
+    height: 800px;
+}
 
 .contact .info-box {
+  margin-top: 20px;
   color: #444444;
   text-align: center;
   right: 500px;
