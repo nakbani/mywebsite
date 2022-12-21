@@ -486,7 +486,7 @@ section {
 }
 
 .resume a h3:hover {
-    color: cornflowerblue;
+    color: #6495ED;
     transition: background 0.2s ease-in-out;
 }
 
