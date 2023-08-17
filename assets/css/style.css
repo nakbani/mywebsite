@@ -24,8 +24,8 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 50px;
-  float: left;
-  left: 15px;
+  float: right;
+  right: 15px;
   bottom: 15px;
   background: #022b60;
   color: #fff;
